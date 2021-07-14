@@ -50,6 +50,18 @@
       <HintPath>F:\ERNESTO\micatebol\micatebol\Bin\GMaps.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Common, Version=4.1.0.0, Culture=neutral, PublicKeyToken=e44a2bc38ed2c13c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Microsoft.Practices.EnterpriseLibrary.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Data, Version=3.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Microsoft.Practices.EnterpriseLibrary.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.ObjectBuilder, Version=1.0.51206.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Microsoft.Practices.ObjectBuilder.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.1449.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
     </Reference>
@@ -100,6 +112,7 @@
     <Content Include="abmProducto.aspx" />
     <Content Include="actualizar_foto_cliente.aspx" />
     <Content Include="admEnvios.aspx" />
+    <Content Include="adm_blogs.aspx" />
     <Content Include="adm_clientes.aspx" />
     <Content Include="adm_clientes_usuarios.aspx" />
     <Content Include="adm_drivers.aspx" />
@@ -3199,6 +3212,13 @@
     <Compile Include="adminCliente.Master.designer.cs">
       <DependentUpon>adminCliente.Master</DependentUpon>
     </Compile>
+    <Compile Include="adm_blogs.aspx.cs">
+      <DependentUpon>adm_blogs.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="adm_blogs.aspx.designer.cs">
+      <DependentUpon>adm_blogs.aspx</DependentUpon>
+    </Compile>
     <Compile Include="adm_clientes.aspx.cs">
       <DependentUpon>adm_clientes.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -3241,6 +3261,7 @@
     <Compile Include="adm_usuarios.aspx.designer.cs">
       <DependentUpon>adm_usuarios.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Clases\Blogs.cs" />
     <Compile Include="cliente_usuarios.aspx.cs">
       <DependentUpon>cliente_usuarios.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -3669,6 +3690,7 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Driver_doc\" />
+    <Folder Include="Img_blog\" />
     <Folder Include="Img_cliente\" />
     <Folder Include="Models\" />
     <Folder Include="Temporal\" />
