@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetReportes" targetNamespace="http://tempuri.org/DataSetReportes.xsd" xmlns:mstns="http://tempuri.org/DataSetReportes.xsd" xmlns="http://tempuri.org/DataSetReportes.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetReportes" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSetReportes" msprop:Generator_UserDSName="DataSetReportes">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="pedido" msprop:Generator_TableClassName="pedidoDataTable" msprop:Generator_TableVarName="tablepedido" msprop:Generator_RowChangedName="pedidoRowChanged" msprop:Generator_TablePropName="pedido" msprop:Generator_RowDeletingName="pedidoRowDeleting" msprop:Generator_RowChangingName="pedidoRowChanging" msprop:Generator_RowEvHandlerName="pedidoRowChangeEventHandler" msprop:Generator_RowDeletedName="pedidoRowDeleted" msprop:Generator_RowClassName="pedidoRow" msprop:Generator_UserTableName="pedido" msprop:Generator_RowEvArgName="pedidoRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="fecha_pedido" msprop:Generator_ColumnVarNameInTable="columnfecha_pedido" msprop:Generator_ColumnPropNameInRow="fecha_pedido" msprop:Generator_ColumnPropNameInTable="fecha_pedidoColumn" msprop:Generator_UserColumnName="fecha_pedido" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="pagado" msprop:Generator_ColumnVarNameInTable="columnpagado" msprop:Generator_ColumnPropNameInRow="pagado" msprop:Generator_ColumnPropNameInTable="pagadoColumn" msprop:Generator_UserColumnName="pagado" type="xs:boolean" minOccurs="0" />
+              <xs:element name="monto" msprop:Generator_ColumnVarNameInTable="columnmonto" msprop:Generator_ColumnPropNameInRow="monto" msprop:Generator_ColumnPropNameInTable="montoColumn" msprop:Generator_UserColumnName="monto" type="xs:decimal" minOccurs="0" />
+              <xs:element name="cargo" msprop:Generator_ColumnVarNameInTable="columncargo" msprop:Generator_ColumnPropNameInRow="cargo" msprop:Generator_ColumnPropNameInTable="cargoColumn" msprop:Generator_UserColumnName="cargo" type="xs:decimal" minOccurs="0" />
+              <xs:element name="entregado" msprop:Generator_ColumnVarNameInTable="columnentregado" msprop:Generator_ColumnPropNameInRow="entregado" msprop:Generator_ColumnPropNameInTable="entregadoColumn" msprop:Generator_UserColumnName="entregado" type="xs:boolean" minOccurs="0" />
+              <xs:element name="nombre_usuario" msprop:Generator_ColumnVarNameInTable="columnnombre_usuario" msprop:Generator_ColumnPropNameInRow="nombre_usuario" msprop:Generator_ColumnPropNameInTable="nombre_usuarioColumn" msprop:Generator_UserColumnName="nombre_usuario" type="xs:string" minOccurs="0" />
+              <xs:element name="delivery" msprop:Generator_ColumnVarNameInTable="columndelivery" msprop:Generator_ColumnPropNameInRow="delivery" msprop:Generator_ColumnPropNameInTable="deliveryColumn" msprop:Generator_UserColumnName="delivery" type="xs:boolean" minOccurs="0" />
+              <xs:element name="nombre_cliente" msprop:Generator_ColumnVarNameInTable="columnnombre_cliente" msprop:Generator_ColumnPropNameInRow="nombre_cliente" msprop:Generator_ColumnPropNameInTable="nombre_clienteColumn" msprop:Generator_UserColumnName="nombre_cliente" type="xs:string" minOccurs="0" />
+              <xs:element name="tipo_servicio" msprop:Generator_ColumnVarNameInTable="columntipo_servicio" msprop:Generator_ColumnPropNameInRow="tipo_servicio" msprop:Generator_ColumnPropNameInTable="tipo_servicioColumn" msprop:Generator_UserColumnName="tipo_servicio" type="xs:string" minOccurs="0" />
+              <xs:element name="tipo_estado" msprop:Generator_ColumnVarNameInTable="columntipo_estado" msprop:Generator_ColumnPropNameInRow="tipo_estado" msprop:Generator_ColumnPropNameInTable="tipo_estadoColumn" msprop:Generator_UserColumnName="tipo_estado" type="xs:string" minOccurs="0" />
+              <xs:element name="ciudad" msprop:Generator_ColumnVarNameInTable="columnciudad" msprop:Generator_ColumnPropNameInRow="ciudad" msprop:Generator_ColumnPropNameInTable="ciudadColumn" msprop:Generator_UserColumnName="ciudad" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="pedido_cabecera" msprop:Generator_TableClassName="pedido_cabeceraDataTable" msprop:Generator_TableVarName="tablepedido_cabecera" msprop:Generator_TablePropName="pedido_cabecera" msprop:Generator_RowDeletingName="pedido_cabeceraRowDeleting" msprop:Generator_RowChangingName="pedido_cabeceraRowChanging" msprop:Generator_RowEvHandlerName="pedido_cabeceraRowChangeEventHandler" msprop:Generator_RowDeletedName="pedido_cabeceraRowDeleted" msprop:Generator_UserTableName="pedido_cabecera" msprop:Generator_RowChangedName="pedido_cabeceraRowChanged" msprop:Generator_RowEvArgName="pedido_cabeceraRowChangeEvent" msprop:Generator_RowClassName="pedido_cabeceraRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="fecha_ini" msprop:Generator_ColumnVarNameInTable="columnfecha_ini" msprop:Generator_ColumnPropNameInRow="fecha_ini" msprop:Generator_ColumnPropNameInTable="fecha_iniColumn" msprop:Generator_UserColumnName="fecha_ini" type="xs:string" minOccurs="0" />
+              <xs:element name="fecha_fin" msprop:Generator_ColumnVarNameInTable="columnfecha_fin" msprop:Generator_ColumnPropNameInRow="fecha_fin" msprop:Generator_ColumnPropNameInTable="fecha_finColumn" msprop:Generator_UserColumnName="fecha_fin" type="xs:string" minOccurs="0" />
+              <xs:element name="tipo_estado" msprop:Generator_ColumnVarNameInTable="columntipo_estado" msprop:Generator_ColumnPropNameInRow="tipo_estado" msprop:Generator_ColumnPropNameInTable="tipo_estadoColumn" msprop:Generator_UserColumnName="tipo_estado" type="xs:string" minOccurs="0" />
+              <xs:element name="ciudad" msprop:Generator_ColumnVarNameInTable="columnciudad" msprop:Generator_ColumnPropNameInRow="ciudad" msprop:Generator_ColumnPropNameInTable="ciudadColumn" msprop:Generator_UserColumnName="ciudad" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

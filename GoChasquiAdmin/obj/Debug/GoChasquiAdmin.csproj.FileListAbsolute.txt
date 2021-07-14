@@ -1,0 +1,673 @@
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\GoChasquiAdmin.dll.config
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\GoChasquiAdmin.dll
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\GoChasquiAdmin.pdb
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\csc.exe
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\csc.exe.config
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\csc.rsp
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\csi.exe
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\csi.exe.config
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\csi.rsp
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\System.AppContext.dll
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\System.Collections.Immutable.dll
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\System.Console.dll
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\System.Globalization.Calendars.dll
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\System.IO.Compression.dll
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\System.IO.FileSystem.dll
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\System.Net.Http.dll
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\System.Net.Sockets.dll
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\System.Reflection.Metadata.dll
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\System.ValueTuple.dll
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\System.Xml.XPath.dll
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\vbc.exe
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\vbc.exe.config
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\vbc.rsp
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\VBCSCompiler.exe
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\roslyn\VBCSCompiler.exe.config
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\obj\Debug\GoChasquiAdmin.csproj.CoreCompileInputs.cache
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\obj\Debug\GoChasquiAdmin.csproj.CopyComplete
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\obj\Debug\GoChasquiAdmin.dll
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\obj\Debug\GoChasquiAdmin.pdb
+D:\ERNESTO\CARLOS DIAS\AdministradorWeb\GoChasquiAdmin\GoChasquiAdmin\obj\Debug\GoChasquiAdmin.csprojAssemblyReference.cache
+E:\PALLEVAR\GoChasquiAdmin\bin\GoChasquiAdmin.dll.config
+E:\PALLEVAR\GoChasquiAdmin\bin\GoChasquiAdmin.dll
+E:\PALLEVAR\GoChasquiAdmin\bin\GoChasquiAdmin.pdb
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\csc.exe
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\csc.exe.config
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\csc.rsp
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\csi.exe
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\csi.exe.config
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\csi.rsp
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.AppContext.dll
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Collections.Immutable.dll
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Console.dll
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Globalization.Calendars.dll
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.IO.Compression.dll
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.IO.FileSystem.dll
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Net.Http.dll
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Net.Sockets.dll
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Reflection.Metadata.dll
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.ValueTuple.dll
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Xml.XPath.dll
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\vbc.exe
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\vbc.exe.config
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\vbc.rsp
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\VBCSCompiler.exe
+E:\PALLEVAR\GoChasquiAdmin\bin\roslyn\VBCSCompiler.exe.config
+E:\PALLEVAR\GoChasquiAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PALLEVAR\GoChasquiAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PALLEVAR\GoChasquiAdmin\obj\Debug\GoChasquiAdmin.csproj.CoreCompileInputs.cache
+E:\PALLEVAR\GoChasquiAdmin\obj\Debug\GoChasquiAdmin.csproj.CopyComplete
+E:\PALLEVAR\GoChasquiAdmin\obj\Debug\GoChasquiAdmin.dll
+E:\PALLEVAR\GoChasquiAdmin\obj\Debug\GoChasquiAdmin.pdb
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\GoChasquiAdmin.dll.config
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\GoChasquiAdmin.dll
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\GoChasquiAdmin.pdb
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\csc.exe
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\csc.exe.config
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\csc.rsp
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\csi.exe
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\csi.exe.config
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\csi.rsp
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.AppContext.dll
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Console.dll
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Globalization.Calendars.dll
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.IO.Compression.dll
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.IO.FileSystem.dll
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Net.Http.dll
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Net.Sockets.dll
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.ValueTuple.dll
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Xml.XPath.dll
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\vbc.exe
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\vbc.exe.config
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\vbc.rsp
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\VBCSCompiler.exe
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\obj\Debug\GoChasquiAdmin.csprojAssemblyReference.cache
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\obj\Debug\GoChasquiAdmin.csproj.CoreCompileInputs.cache
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\obj\Debug\GoChasquiAdmin.csproj.CopyComplete
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\obj\Debug\GoChasquiAdmin.dll
+C:\CARLOS DIAS\PALLEVAR\GoChasquiAdmin\obj\Debug\GoChasquiAdmin.pdb
+E:\PALLEVAR\GoChasquiAdmin\obj\Debug\GoChasquiAdmin.csprojAssemblyReference.cache
+F:\PALLEVAR\GoChasquiAdmin\bin\GoChasquiAdmin.dll.config
+F:\PALLEVAR\GoChasquiAdmin\bin\GoChasquiAdmin.dll
+F:\PALLEVAR\GoChasquiAdmin\bin\GoChasquiAdmin.pdb
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\csc.exe
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\csc.exe.config
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\csc.rsp
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\csi.exe
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\csi.exe.config
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\csi.rsp
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.AppContext.dll
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Collections.Immutable.dll
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Console.dll
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Globalization.Calendars.dll
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.IO.Compression.dll
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.IO.FileSystem.dll
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Net.Http.dll
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Net.Sockets.dll
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Reflection.Metadata.dll
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.ValueTuple.dll
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Xml.XPath.dll
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\vbc.exe
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\vbc.exe.config
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\vbc.rsp
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\VBCSCompiler.exe
+F:\PALLEVAR\GoChasquiAdmin\bin\roslyn\VBCSCompiler.exe.config
+F:\PALLEVAR\GoChasquiAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\PALLEVAR\GoChasquiAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\PALLEVAR\GoChasquiAdmin\obj\Debug\GoChasquiAdmin.csprojAssemblyReference.cache
+F:\PALLEVAR\GoChasquiAdmin\obj\Debug\GoChasquiAdmin.csproj.CoreCompileInputs.cache
+F:\PALLEVAR\GoChasquiAdmin\obj\Debug\GoChasquiAdmin.csproj.CopyComplete
+F:\PALLEVAR\GoChasquiAdmin\obj\Debug\GoChasquiAdmin.dll
+F:\PALLEVAR\GoChasquiAdmin\obj\Debug\GoChasquiAdmin.pdb
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\GoChasquiAdmin.dll.config
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\GoChasquiAdmin.dll
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\GoChasquiAdmin.pdb
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\csc.exe
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\csc.exe.config
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\csc.rsp
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\csi.exe
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\csi.exe.config
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\csi.rsp
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.AppContext.dll
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Collections.Immutable.dll
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Console.dll
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Globalization.Calendars.dll
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.IO.Compression.dll
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.IO.FileSystem.dll
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Net.Http.dll
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Net.Sockets.dll
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.ValueTuple.dll
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Xml.XPath.dll
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\vbc.exe
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\vbc.exe.config
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\vbc.rsp
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\VBCSCompiler.exe
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\VBCSCompiler.exe.config
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\obj\Debug\GoChasquiAdmin.csproj.CoreCompileInputs.cache
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\obj\Debug\GoChasquiAdmin.csproj.CopyComplete
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\obj\Debug\GoChasquiAdmin.dll
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\obj\Debug\GoChasquiAdmin.pdb
+D:\Documentos\Otros\GoChasqui\PALLEVAR\GoChasquiAdmin\obj\Debug\GoChasquiAdmin.csprojAssemblyReference.cache
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\GoChasquiAdmin.dll.config
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\GoChasquiAdmin.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\GoChasquiAdmin.pdb
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\csc.exe
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\csc.exe.config
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\csc.rsp
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\csi.exe
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\csi.exe.config
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\csi.rsp
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.AppContext.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Collections.Immutable.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Console.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Globalization.Calendars.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.IO.Compression.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.IO.FileSystem.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Net.Http.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Net.Sockets.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Reflection.Metadata.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.ValueTuple.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Xml.XPath.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\vbc.exe
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\vbc.exe.config
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\vbc.rsp
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\VBCSCompiler.exe
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\VBCSCompiler.exe.config
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\obj\Debug\GoChasquiAdmin.csproj.CoreCompileInputs.cache
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\obj\Debug\GoChasquiAdmin.csproj.CopyComplete
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\obj\Debug\GoChasquiAdmin.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\obj\Debug\GoChasquiAdmin.pdb
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\SqlServerTypes\x64\msvcr120.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\SqlServerTypes\x86\msvcr120.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.ReportViewer.Common.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.ReportViewer.Design.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.ReportViewer.WebDesign.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.ReportViewer.WebForms.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.SqlServer.Types.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\EnvDTE.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.ReportViewer.WinForms.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\stdole.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.VSHelp.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\EnvDTE80.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.Build.Tasks.Core.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Data.Services.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\VSLangProj.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Data.Core.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\VSLangProj80.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Newtonsoft.Json.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.GraphModel.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.MSXML.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.Build.Utilities.Core.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.Build.Framework.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\VSLangProj2.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\es\Microsoft.VisualStudio.Data.Services.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\ru\Microsoft.VisualStudio.Data.Services.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\es\Microsoft.VisualStudio.Data.Core.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\ru\Microsoft.VisualStudio.Data.Core.resources.dll
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\es\Microsoft.VisualStudio.GraphModel.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\SqlServerTypes\x64\msvcr120.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\SqlServerTypes\x86\msvcr120.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\GoChasquiAdmin.dll.config
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\GoChasquiAdmin.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\GoChasquiAdmin.pdb
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\csc.exe
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\csc.exe.config
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\csc.rsp
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\csi.exe
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\csi.exe.config
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\csi.rsp
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.AppContext.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Collections.Immutable.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Console.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Globalization.Calendars.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.IO.Compression.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.IO.FileSystem.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Net.Http.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Net.Sockets.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.ValueTuple.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Xml.XPath.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\vbc.exe
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\vbc.exe.config
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\vbc.rsp
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\VBCSCompiler.exe
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\roslyn\VBCSCompiler.exe.config
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.ReportViewer.Common.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.ReportViewer.Design.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.ReportViewer.WebDesign.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.ReportViewer.WebForms.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.SqlServer.Types.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\EnvDTE.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Shell.14.0.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Shell.Design.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.ReportViewer.WinForms.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\stdole.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.VSHelp.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Utilities.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Threading.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Imaging.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.ImageCatalog.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Designer.Interfaces.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Text.Data.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Text.UI.Wpf.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Text.UI.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Package.LanguageService.14.0.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\EnvDTE80.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Language.Intellisense.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.Build.Tasks.Core.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Data.Services.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\VSLangProj.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Data.Core.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\VSLangProj80.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.WCFReference.Interop.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Data.Framework.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Editor.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Newtonsoft.Json.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.GraphModel.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.CoreUtility.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.MSXML.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.Build.Utilities.Core.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Text.Logic.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.Build.Framework.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\VSLangProj2.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Shell.14.0.xml
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Shell.Design.xml
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Utilities.xml
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Threading.xml
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Imaging.xml
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.ImageCatalog.xml
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Designer.Interfaces.xml
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Text.Data.xml
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Text.UI.Wpf.xml
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Text.UI.xml
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Package.LanguageService.14.0.xml
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Language.Intellisense.xml
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.WCFReference.Interop.xml
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Data.Framework.xml
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Editor.xml
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.CoreUtility.xml
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\Microsoft.VisualStudio.Text.Logic.xml
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\es\Microsoft.VisualStudio.Data.Services.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\ru\Microsoft.VisualStudio.Data.Services.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\es\Microsoft.VisualStudio.Data.Core.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\ru\Microsoft.VisualStudio.Data.Core.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\bin\es\Microsoft.VisualStudio.GraphModel.resources.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\obj\Debug\RdlCompile.cache
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\obj\Debug\RdlCompile.compiled
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\obj\Debug\GoChasquiAdmin.csproj.CoreCompileInputs.cache
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\obj\Debug\GoChasquiAdmin.csproj.CopyComplete
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\obj\Debug\GoChasquiAdmin.dll
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\obj\Debug\GoChasquiAdmin.pdb
+D:\Sistemas\ProyectoGoChasqui\DocGoChasqui\PALLEVAR\GoChasquiAdmin\obj\Debug\GoChasquiAdmin.csproj.AssemblyReference.cache
+D:\Documentos\Otros\DocGoChasqui\PALLEVAR\GoChasquiAdmin\obj\Debug\GoChasquiAdmin.csproj.AssemblyReference.cache

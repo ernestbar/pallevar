@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="6d0cf64e-4b24-4643-9a38-99e0e4d9a916" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://72.167.41.171/WSPaLlevar/WSGoChasqui.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="WSGoChasqui.xsd" MetadataType="Schema" ID="5381cf86-f13d-4a4b-a080-6bdcd807eb1d" SourceId="1" SourceUrl="http://72.167.41.171/WSPaLlevar/WSGoChasqui.svc?xsd=xsd2" />
+    <MetadataFile FileName="WSGoChasqui1.xsd" MetadataType="Schema" ID="5213154e-29e5-4f52-92bc-01aba82ab171" SourceId="1" SourceUrl="http://72.167.41.171/WSPaLlevar/WSGoChasqui.svc?xsd=xsd1" />
+    <MetadataFile FileName="WSGoChasqui2.xsd" MetadataType="Schema" ID="fd2f1df8-a130-47a9-b8dd-ebeced824f31" SourceId="1" SourceUrl="http://72.167.41.171/WSPaLlevar/WSGoChasqui.svc?xsd=xsd0" />
+    <MetadataFile FileName="WSGoChasqui.disco" MetadataType="Disco" ID="4cf48afa-7230-4f64-855f-3be844e27a6b" SourceId="1" SourceUrl="http://72.167.41.171/WSPaLlevar/WSGoChasqui.svc?disco" />
+    <MetadataFile FileName="WSGoChasqui.wsdl" MetadataType="Wsdl" ID="9dbbb09a-d0f7-46d3-b0bc-ba9d05cfbea9" SourceId="1" SourceUrl="http://72.167.41.171/WSPaLlevar/WSGoChasqui.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

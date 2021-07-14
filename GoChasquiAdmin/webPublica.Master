@@ -1,0 +1,329 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="webPublica.master.cs" Inherits="GoChasquiAdmin.webPublica" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>PaLlevar</title>
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport" />
+    <meta content="" name="description" />
+    <meta content="" name="author" />
+
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport" />
+    <meta content="" name="description" />
+    <meta content="" name="author" />
+
+    <!-- ================== BEGIN BASE CSS STYLE ================== -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
+    <link href="~/assets/plugins/bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/assets/plugins/font-awesome/5.3/css/all.min.css" rel="stylesheet" />
+    <link href="~/assets/plugins/animate/animate.min.css" rel="stylesheet" />
+    <link href="~/assets/css/e-commerce/style.min.css" rel="stylesheet" />
+    <link href="~/assets/css/e-commerce/style-responsive.min.css" rel="stylesheet" />
+    <link href="~/assets/css/e-commerce/theme/default.css" id="theme" rel="stylesheet" />
+    <link href="~/assets/css/one-page-parallax/style.min.css" rel="stylesheet" />
+    <link href="~/assets/css/one-page-parallax/style-responsive.min.css" rel="stylesheet" />
+    <%--<link href="~/assets/css/one-page-parallax/theme/default.css" id="theme" rel="stylesheet" />--%>
+    <!-- ================== END BASE CSS STYLE ================== -->
+    <!-- ================== BEGIN BASE JS ================== -->
+    <script src="<%= Page.ResolveUrl("assets/plugins/pace/pace.min.js") %>"></script>
+    <!-- ================== END BASE JS ================== -->
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBoAnWm45HxLXvth8ULOiUQFcyZbiFTCgQ"></script>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <!-- BEGIN #page-container -->
+        <div id="page-container" class="fade">
+            <!-- BEGIN #top-nav -->
+            <div id="top-nav" class="top-nav" style="background-color: #4c3c9f">
+                <%--style="background-image:url(assets/img/gochasqui/fondo_mosaico.jpg)"--%>
+                <!-- BEGIN container -->
+                <div class="container">
+                    <div class="collapse navbar-collapse">
+                        <ul class="nav navbar-nav">
+                            <li>
+                                <img src="assets/img/gochasqui/LOGO WEB BLANCO.png" alt="Pa Llevar" width="50" height="50" /></li>
+                        </ul>
+                        <ul class="nav navbar-nav navbar-right">
+                            <%--<li><a href="#">Our Forum</a></li>
+						<li><a href="#">Newsletter</a></li>--%>
+                            <%--						<li><a href="https://www.facebook.com/app.somospallevar"><i class="fab fa-facebook-f f-s-14 text-white"></i></a></li>
+						<li><a href="#"><i class="fab fa-instagram f-s-14 text-blue""></i></a></li>
+						<li><a href="#"><i class="fab fa-twitter f-s-14 text-blue""></i></a></li>
+						<li><a href="#"><i class="fab fa-dribbble f-s-14 text-blue""></i></a></li>
+						<li><a href="#"><i class="fab fa-google f-s-14 text-blue""></i></a></li>--%>
+
+                            <li><a href="https://www.facebook.com/app.somospallevar">
+                                <img alt="Facebook" src="assets/img/gochasqui/FACEBOOK BLANCO.png" width="50" height="50"></a></li>
+                            <li><a href="#">
+                                <img alt="Instagram" src="assets/img/gochasqui/INSTAGRAM BLANCO.png" width="50" height="50"></a></li>
+                            <li><a href="#">
+                                <img alt="Linkedin" src="assets/img/gochasqui/LINK BLANCO.png" width="50" height="50"></a></li>
+                            <li><a href="#">
+                                <img alt="YouTube" src="assets/img/gochasqui/YOUTUBE BLANCO.png" width="50" height="50"></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- END container -->
+            </div>
+            <!-- END #top-nav -->
+            <!-- BEGIN #header -->
+            <div id="header" class="header">
+                <%--style="background-image:url(assets/img/gochasqui/fondo_menus.jpg)"--%>
+                <!-- BEGIN container -->
+                <div class="container">
+                    <!-- BEGIN header-container -->
+                    <div class="header-container">
+                        <!-- BEGIN navbar-header -->
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse">
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            <%--						<div class="header-logo">
+							<a href="home.aspx">
+								<span class="brand"></span>
+								<span>PA</span>Llevar
+								<small>haz tu pedido Ya!!!</small>
+							</a>
+						</div>--%>
+                        </div>
+                        <!-- END navbar-header -->
+                        <!-- BEGIN header-nav -->
+                        <div class="header-nav">
+                            <div class=" collapse navbar-collapse" id="navbar-collapse">
+                                <ul class="nav">
+                                    <li class="active"><a href="home.aspx">Home</a></li>
+                                    <li class="dropdown dropdown-hover">
+                                        <a href="#" data-toggle="dropdown">Servicios 
+										<b class="caret"></b>
+                                            <span class="arrow top"></span>
+                                        </a>
+                                        <div class="dropdown-menu">
+                                            <a class="dropdown-item" href="transporte.aspx">Transporte</a>
+                                            <a class="dropdown-item" href="restaurantes.aspx">Restaurantes</a>
+                                            <a class="dropdown-item" href="comercios.aspx?Id_tiposervicio=3">Mercado</a>
+                                            <a class="dropdown-item" href="comercios.aspx?Id_tiposervicio=4">Tiendas</a>
+                                            <a class="dropdown-item" href="comercios.aspx?Id_tiposervicio=5">Salud</a>
+                                            <a class="dropdown-item" href="envio.aspx">Envios</a>
+                                            <%--<a class="dropdown-item" href="product.html">Laptop</a>
+										<a class="dropdown-item" href="product.html">Speaker</a>
+										<a class="dropdown-item" href="product.html">Gadget</a>--%>
+                                        </div>
+                                    </li>
+                                    <li><a href="nosotros.aspx">Nosotros</a></li>
+                                    <li><a href="contacto.aspx">Contactanos</a></li>
+                                    <%--<li class="dropdown dropdown-hover">
+									<a href="#" data-toggle="dropdown">
+										Blog
+										<b class="caret"></b>
+										<span class="arrow top"></span>
+									</a>--%>
+                                    <%--<div class="dropdown-menu">
+										<a class="dropdown-item" href="index.html">Home (Default)</a>
+										<a class="dropdown-item" href="index_fixed_header.html">Home (Fixed Header)</a>
+										<a class="dropdown-item" href="index_inverse_header.html">Home (Inverse Header)</a>
+										<a class="dropdown-item" href="search_results.html">Search Results</a>
+										<a class="dropdown-item" href="product.html">Product Page</a>
+										<a class="dropdown-item" href="product_detail.html">Product Details Page</a>
+										<a class="dropdown-item" href="checkout_cart.html">Checkout Cart</a>
+										<a class="dropdown-item" href="checkout_info.html">Checkout Shipping</a>
+										<a class="dropdown-item" href="checkout_payment.html">Checkout Payment</a>
+										<a class="dropdown-item" href="checkout_complete.html">Checkout Complete</a>
+										<a class="dropdown-item" href="my_account.html">My Account</a>
+										<a class="dropdown-item" href="contact_us.html">Contact Us</a>
+										<a class="dropdown-item" href="about_us.html">About Us</a>
+										<a class="dropdown-item" href="faq.html">FAQ</a>
+									</div>--%>
+                                    <%--</li>--%>
+
+
+
+
+                                    <%--<li class="dropdown dropdown-hover">
+									<a href="#" data-toggle="dropdown">
+										<i class="fa fa-search search-btn"></i>
+										<span class="arrow top"></span>
+									</a>
+									<div class="dropdown-menu p-15">
+										
+											<div class="input-group">
+												<input type="text" placeholder="Search" class="form-control bg-silver-lighter" />
+												<div class="input-group-append">
+													<button class="btn btn-inverse" type="submit"><i class="fa fa-search"></i></button>
+												</div>
+											</div>
+										
+									</div>
+								</li>--%>
+                                </ul>
+                            </div>
+                        </div>
+                        <!-- END header-nav -->
+                        <asp:Panel ID="Panel_admin_comercio" runat="server" class="header-nav" Visible="true">
+                            <ul class="nav pull-left">
+                                <li class="dropdown dropdown-hover">
+                                    <a href="#" data-toggle="dropdown">
+                                        <asp:Label ID="lblClienteOpciones" runat="server" Text="Comercios"></asp:Label>
+                                        <b class="caret"></b>
+                                        <span class="arrow top"></span>
+                                    </a>
+                                    <div class="dropdown-menu">
+                                        <asp:LinkButton ID="lbtnAdminProductos" OnClick="lbtnAdminProductos_Click" class="dropdown-item" runat="server">Administrar productos</asp:LinkButton>
+                                        <asp:LinkButton ID="lbtnAdminUsuarios" OnClick="lbtnAdminUsuarios_Click" class="dropdown-item" runat="server">Administrar usuarios</asp:LinkButton>
+                                        <asp:LinkButton ID="lbtnReporesConsultas" OnClick="lbtnReporesConsultas_Click" class="dropdown-item" runat="server">Admnistrar pedidos</asp:LinkButton>
+                                        <asp:LinkButton ID="lbtnActualizarFoto" OnClick="lbtnActualizarFoto_Click" class="dropdown-item" runat="server">Actualizar Foto</asp:LinkButton>
+                                        <%--<a class="dropdown-item" href="restaurantes.aspx">Administrar productos</a>
+											<a class="dropdown-item" href="product.html">Administrar Usuarios</a>
+											<a class="dropdown-item" href="product.html">Reportes</a>--%>
+                                        <%--<a class="dropdown-item" href="product.html">Mercado</a>
+											<a class="dropdown-item" href="product.html">Tiendas</a>
+											<a class="dropdown-item" href="product.html">Salud</a>
+											<a class="dropdown-item" href="product.html">Envios</a>--%>
+                                        <%--<a class="dropdown-item" href="product.html">Laptop</a>
+											<a class="dropdown-item" href="product.html">Speaker</a>
+											<a class="dropdown-item" href="product.html">Gadget</a>--%>
+                                    </div>
+                                </li>
+                            </ul>
+                        </asp:Panel>
+                        <asp:Panel ID="Panel_admin_pedidos" runat="server" class="header-nav" Visible="true">
+                            <ul class="nav">
+                                <li class="dropdown dropdown-hover">
+                                    <a href="#" data-toggle="dropdown">
+                                        <asp:Label ID="Label1" runat="server" Text="Clientes"></asp:Label>
+                                        <b class="caret"></b>
+                                        <span class="arrow top"></span>
+                                    </a>
+                                    <div class="dropdown-menu">
+                                        <asp:LinkButton ID="lbtnAdminPedidos" OnClick="lbtnAdminPedidos_Click" class="dropdown-item" runat="server">Seguimiento pedidos</asp:LinkButton>
+                                        <%--<asp:LinkButton ID="LinkButton2" OnClick="lbtnAdminUsuarios_Click" class="dropdown-item" runat="server">Administrar usuarios</asp:LinkButton>--%>
+                                        <%--<asp:LinkButton ID="LinkButton3" OnClick="lbtnReporesConsultas_Click" class="dropdown-item" runat="server">Admnistrar pedidos</asp:LinkButton>--%>
+                                        <%--<a class="dropdown-item" href="restaurantes.aspx">Administrar productos</a>
+											<a class="dropdown-item" href="product.html">Administrar Usuarios</a>
+											<a class="dropdown-item" href="product.html">Reportes</a>--%>
+                                        <%--<a class="dropdown-item" href="product.html">Mercado</a>
+											<a class="dropdown-item" href="product.html">Tiendas</a>
+											<a class="dropdown-item" href="product.html">Salud</a>
+											<a class="dropdown-item" href="product.html">Envios</a>--%>
+                                        <%--<a class="dropdown-item" href="product.html">Laptop</a>
+											<a class="dropdown-item" href="product.html">Speaker</a>
+											<a class="dropdown-item" href="product.html">Gadget</a>--%>
+                                    </div>
+                                </li>
+                            </ul>
+                        </asp:Panel>
+                        <asp:Panel ID="panel_super_admin" runat="server" class="header-nav" Visible="false">
+                            <ul class="nav pull-left">
+                                <li class="dropdown dropdown-hover">
+                                    <a href="#" data-toggle="dropdown">
+                                        <asp:Label ID="lblSuperAdmin" runat="server" Text="Admin"></asp:Label>
+                                        <b class="caret"></b>
+                                        <span class="arrow top"></span>
+                                    </a>
+                                    <div class="dropdown-menu">
+                                        <asp:LinkButton ID="lbtnAdminConsole" OnClick="lbtnAdminConsole_Click" class="dropdown-item" runat="server">Consola</asp:LinkButton>
+                                    </div>
+                                </li>
+                            </ul>
+                        </asp:Panel>
+                        <!-- BEGIN header-nav -->
+                        <div class="header-nav">
+                            <ul class="nav pull-right">
+
+                                <li class="dropdown dropdown-hover">
+                                    <a href="login_usuario.aspx">
+                                        <asp:Image ID="imgUser" class="user-img" ImageUrl="~/assets/img/gochasqui/PERFIL MORADO.png" runat="server" />
+                                        <%--<img src="assets/img/user/user-1.jpg" class="user-img" alt="" /> --%>
+                                        <span class="d-none d-xl-inline">
+                                            <asp:Label ID="lblUsuario" runat="server" Text="Ingresar"></asp:Label>
+                                        </span>
+                                        <div class="dropdown-menu">
+                                            <asp:LinkButton ID="lbtnCerrar" OnClick="lbtnCerrar_Click" class="dropdown-item" runat="server">Ingresar</asp:LinkButton>
+                                            <asp:LinkButton ID="lbtnCambiarClave" OnClick="lbtnCambiarClave_Click" class="dropdown-item" runat="server">Cambiar contraseña</asp:LinkButton>
+                                            <%--<asp:LinkButton ID="lblConstr" OnClick="lblCerrar_Click" class="dropdown-item" runat="server">Administrar pedidos</asp:LinkButton>--%>
+                                        </div>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <!-- END header-nav -->
+                    </div>
+                    <!-- END header-container -->
+                </div>
+                <!-- END container -->
+            </div>
+            <!-- END #header -->
+
+            <div class="bg-white">
+                <%--style="background-image:url(assets/img/gochasqui/fondo_mosaico.jpg)"--%>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+
+            <!-- BEGIN #footer-copyright -->
+            <div id="footer-copyright" class="footer-copyright" style="background-color: #4c3c9f">
+                <!-- BEGIN container -->
+                <div class="container align-content-center">
+                    <%--				<div class="payment-method">
+					<img src="assets/img/payment/payment-method.png" alt="" />
+				</div>--%>
+                    <div class="row">
+                        <div class="col-4">
+                            <div class="copyright" style="color: white; font-size:small; font-weight: bold">
+                                COPYRIGHT &copy; 2021 PALLEVAR. DERECHOS RESERVADOS.
+                            </div>
+                        </div>
+                        <div class="col-4">
+                            <ul class="nav nav-pills justify-content-center">
+                                <li><a href="https://www.facebook.com/app.somospallevar">
+                                    <img alt="Facebook" src="assets/img/gochasqui/FACEBOOK BLANCO.png" width="50" height="50"></a></li>
+                                <li><a href="#">
+                                    <img alt="Instagram" src="assets/img/gochasqui/INSTAGRAM BLANCO.png" width="50" height="50"></a></li>
+                                <li><a href="#">
+                                    <img alt="Linkedin" src="assets/img/gochasqui/LINK BLANCO.png" width="50" height="50"></a></li>
+                                <li><a href="#">
+                                    <img alt="YouTube" src="assets/img/gochasqui/YOUTUBE BLANCO.png" width="50" height="50"></a></li>
+                            </ul>
+                        </div>
+                        <div class="col-4" style="text-align:right">
+                            <a href="politica_privacidad.aspx" style="color: white; font-size:small; font-weight: bold">POLÍTICAS DE PRIVACIDAD</a>
+                        </div>
+                    </div>
+            </div>
+            <!-- END container -->
+        </div>
+        <!-- END #footer-copyright -->
+        </div>
+	<!-- END #page-container -->
+    </form>
+    <script src="<%= Page.ResolveUrl("assets/plugins/pace/pace.min.js") %>"></script>
+    <!-- ================== BEGIN BASE JS ================== -->
+    <script src="<%= Page.ResolveUrl("assets/plugins/jquery/jquery-3.3.1.min.js") %>"></script>
+    <script src="<%= Page.ResolveUrl("assets/plugins/bootstrap/4.1.3/js/bootstrap.bundle.min.js") %>"></script>
+    <!--[if lt IE 9]>
+		<script src="assets/crossbrowserjs/html5shiv.js"></script>
+		<script src="assets/crossbrowserjs/respond.min.js"></script>
+		<script src="assets/crossbrowserjs/excanvas.min.js"></script>
+	<![endif]-->
+    <script src="<%= Page.ResolveUrl("assets/plugins/js-cookie/js.cookie.js") %>"></script>
+    <script src="<%= Page.ResolveUrl("assets/plugins/paroller/jquery.paroller.min.js") %>"></script>
+    <script src="<%= Page.ResolveUrl("assets/js/e-commerce/apps.min.js") %>"></script>
+    <script src="<%= Page.ResolveUrl("assets/js/one-page-parallax/apps.min.js") %>"></script>
+    <!-- ================== END BASE JS ================== -->
+
+    <script>
+        $(document).ready(function () {
+            App.init();
+
+        });
+    </script>
+
+
+</body>
+</html>
