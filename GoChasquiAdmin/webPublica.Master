@@ -118,6 +118,7 @@
                                     </li>
                                     <li><a href="nosotros.aspx">Nosotros</a></li>
                                     <li><a href="contacto.aspx">Contactanos</a></li>
+                                    <li><a href="blogs.aspx">Blog</a></li>
                                     <%--<li class="dropdown dropdown-hover">
 									<a href="#" data-toggle="dropdown">
 										Blog

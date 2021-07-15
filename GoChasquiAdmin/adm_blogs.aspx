@@ -54,7 +54,7 @@
                                                 <td><%# Eval("titulo") %></td>
                                                 <td><%# Eval("fecha_publicacion") %></td>
                                                 <td><%# Eval("fecha_termino") %></td>
-                                                <td><%# Eval("url_foto") %></td>
+                                                <td><asp:Image runat="server" Width="70" ImageUrl='<%# string.Concat ("Img_blog/",Eval("id_blog"),"/", Eval("url_foto")) %>'></asp:Image></td>
                                                 <td><%# Eval("activo") %></td>
                                                 <td><%# Eval("descripcion") %></td>
                                                 <td>

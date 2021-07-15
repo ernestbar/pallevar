@@ -2923,6 +2923,7 @@
     <Content Include="adminCliente.Master" />
     <Content Include="assets\plugins\lightbox\js\lightbox-plus-jquery.min.map" />
     <Content Include="assets\plugins\lightbox\js\lightbox.min.map" />
+    <Content Include="blogs.aspx" />
     <Content Include="cambiar_clave.aspx" />
     <Content Include="cambia_pass.aspx" />
     <Content Include="cargaImagen.aspx" />
@@ -3260,6 +3261,13 @@
     </Compile>
     <Compile Include="adm_usuarios.aspx.designer.cs">
       <DependentUpon>adm_usuarios.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="blogs.aspx.cs">
+      <DependentUpon>blogs.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="blogs.aspx.designer.cs">
+      <DependentUpon>blogs.aspx</DependentUpon>
     </Compile>
     <Compile Include="Clases\Blogs.cs" />
     <Compile Include="cliente_usuarios.aspx.cs">
