@@ -132,15 +132,6 @@ namespace GoChasquiAdmin
         protected global::System.Web.UI.WebControls.TextBox txtDescripcion;
 
         /// <summary>
-        /// Control fecha_ini.
-        /// </summary>
-        /// <remarks>
-        /// Campo generado automáticamente.
-        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-        /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlInputGenericControl fecha_ini;
-
-        /// <summary>
         /// Control hfFechaIni.
         /// </summary>
         /// <remarks>

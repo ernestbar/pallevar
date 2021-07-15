@@ -96,7 +96,6 @@
     </member>
     <member name="F:Microsoft.VisualStudio.Shell.TableControl.StandardTableColumnDefinitions.ProjectRank">
       <summary />
-      <returns />
     </member>
     <member name="F:Microsoft.VisualStudio.Shell.TableControl.StandardTableColumnDefinitions.Text">
       <summary>The column used to display the descriptive text associated with the entry. This column uses the StandardTableKeyNames.Text and StandardTableKeyNames.FullText key names in an entry. If the StandardTableKeyNames.FullText value exists, then StandardTableKeyNames.Text is displayed in the column, and the full text is used as a tool tip and when copying the contents. If the StandardTableKeyNames.FullText value doesn't exist, then StandardTableKeyNames.Text is displayed in the column and when copying the contents, and there is no tool tip.</summary>
@@ -174,17 +173,16 @@
       <summary>The IVsTaskItem.ImageListIndex() of the error (for errors reported using the legacy APIs).</summary>
     </member>
     <member name="F:Microsoft.VisualStudio.Shell.TableManager.StandardTableKeyNames.IsActiveContext">
-      <summary>Was the error generated from the active context? If this value is set, then the text associated with the StandardTableColumnDefinitions.ErrorSeverity will have "(active)" or " (inactive)" appended to it, depending on the value. The expected data type is bool.</summary>
+      <summary>Was the error generated from the active context? If this value is set, then the text associated with the StandardTableColumnDefinitions.ErrorSeverity will have "(active)" or " (inactive)" appended to it, depending on the value. The expected data type is <see langword="bool" />.</summary>
     </member>
     <member name="F:Microsoft.VisualStudio.Shell.TableManager.StandardTableKeyNames.Line">
       <summary>The line number associated with a table-entry. The raw value should be an integer. The first line of a file should be line 0.</summary>
     </member>
     <member name="F:Microsoft.VisualStudio.Shell.TableManager.StandardTableKeyNames.OutputWindowMessageId">
-      <summary>The message ID that is used to associate an entry in the error list with a text message in the output window. The expected value data type is uint.</summary>
+      <summary>The message ID that is used to associate an entry in the error list with a text message in the output window. The expected value data type is <see langword="uint" />.</summary>
     </member>
     <member name="F:Microsoft.VisualStudio.Shell.TableManager.StandardTableKeyNames.OutputWindowMessageProvider">
       <summary />
-      <returns />
     </member>
     <member name="F:Microsoft.VisualStudio.Shell.TableManager.StandardTableKeyNames.Priority">
       <summary>The error priority. Expected data type is VSTASKPRIORITY.</summary>
@@ -209,6 +207,10 @@
     </member>
     <member name="F:Microsoft.VisualStudio.Shell.TableManager.StandardTables.TasksTable">
       <summary>The string equivalent of the ITableManager.Identifier for the ITableManager providing tasks for the Task List.</summary>
+    </member>
+    <member name="M:Microsoft.VisualStudio.Shell.AccountPickerOptions.#ctor(System.Windows.Window)">
+      <summary />
+      <param name="parentWindow" />
     </member>
     <member name="M:Microsoft.VisualStudio.Shell.AccountPickerOptions.#ctor(System.Windows.Window,System.String)">
       <summary>Initializes a new instance of the options used to create an account picker.</summary>
@@ -303,10 +305,13 @@
       <param name="context">The context.</param>
       <returns>The info about this type, or null if the type is not a valid toolbox control type recognized by this provider..</returns>
     </member>
+    <member name="M:Microsoft.VisualStudio.Shell.IVsAccountManagementService.CreateWpfAccountPicker(Microsoft.VisualStudio.Shell.AccountPickerOptions)">
+      <summary />
+      <param name="options" />
+    </member>
     <member name="M:Microsoft.VisualStudio.Shell.IVsAccountManagementService.CreateWpfAccountPickerAsync(Microsoft.VisualStudio.Shell.AccountPickerOptions)">
       <summary />
       <param name="options" />
-      <returns />
     </member>
     <member name="M:Microsoft.VisualStudio.Shell.IVsManagedImageService.AddCustomImage(System.Windows.Media.ImageSource,System.Boolean)">
       <summary>Adds a custom ImageSource to the image service.</summary>
@@ -1004,10 +1009,6 @@
       <summary>Marks a control as part of the keyboard navigation cycle list for menus/toolbars.</summary>
       <returns>True if the control is part of the keyboard navigation cycle.</returns>
     </member>
-    <member name="P:Microsoft.VisualStudio.Shell.IClientRightsAdditionalMetadata.ClientRightsMetadata">
-      <summary />
-      <returns />
-    </member>
     <member name="P:Microsoft.VisualStudio.Shell.ICommentTaskToken.Priority">
       <summary>Gets the CommentTaskPriority to use when creating tasks based on this token.</summary>
       <returns>Returns <see cref="T:Microsoft.VisualStudio.Shell.CommentTaskPriority" />.</returns>
@@ -1389,9 +1390,6 @@
     </member>
     <member name="T:Microsoft.VisualStudio.Shell.IAsyncServiceProvider">
       <summary>Provides a method to get a service asynchronously.</summary>
-    </member>
-    <member name="T:Microsoft.VisualStudio.Shell.IClientRightsAdditionalMetadata">
-      <summary />
     </member>
     <member name="T:Microsoft.VisualStudio.Shell.ICommentTaskToken">
       <summary>This interface is used to get information about one of the tokens used to generate tasks.</summary>

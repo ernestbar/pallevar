@@ -41,7 +41,7 @@ namespace GoChasquiAdmin
             txtDescripcion.Text = obj_b.descripcion;
             hfFechaIni.Value = obj_b.fecha_publicacion.ToString();
             hfFechaFin.Value = obj_b.fecha_publicacion.ToString();
-            fecha_ini.Value = obj_b.fecha_publicacion.ToShortDateString();
+            //fecha_ini.Value = obj_b.fecha_publicacion.ToShortDateString();
             MultiView1.ActiveViewIndex = 1;
 
         }
@@ -53,13 +53,17 @@ namespace GoChasquiAdmin
             id = obj.CommandArgument.ToString();
             lblIdBlog.Text = id;
             Clases.Blogs obj_b = new Clases.Blogs("E", int.Parse(id),int.Parse(lblIdUsuario.Text),"","",DateTime.Now, DateTime.Now,"",false, DateTime.Now, int.Parse(lblIdUsuario.Text));
+            lblAviso.Text = obj_b.ABM();
             Repeater1.DataBind();
         }
 
         protected void btnGuardar_Click(object sender, EventArgs e)
         {
-            string fecha_ini = hfFechaIni.Value;
-            string fecha_fin = hfFechaFin.Value;
+            string[] fecha_ini_a = hfFechaIni.Value.Split('-');
+            string[] fecha_fin_a = hfFechaFin.Value.Split('-');
+
+            string fecha_ini = fecha_ini_a[2]+"/"+ fecha_ini_a[1] + "/"+ fecha_ini_a[0];
+            string fecha_fin = fecha_fin_a[2] + "/" + fecha_fin_a[1] + "/" + fecha_fin_a[0];
             string url_foto = "";
             if (fuImagen.HasFile)
                 url_foto = fuImagen.FileName;

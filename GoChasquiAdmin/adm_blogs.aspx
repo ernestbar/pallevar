@@ -59,7 +59,7 @@
                                                 <td><%# Eval("descripcion") %></td>
                                                 <td>
                                                     <asp:Button ID="btnEditar" class="btn-sm btn-info" CommandArgument='<%# Eval("id_blog") %>' OnClick="btnEditar_Click" runat="server" Text="Editar" />
-                                                    <asp:Button ID="btnEliminar" class="btn-sm btn-info" CommandArgument='<%# Eval("id_blog") %>' OnClick="btnEliminar_Click" runat="server" Text="Editar" />
+                                                    <asp:Button ID="btnEliminar" class="btn-sm btn-info" CommandArgument='<%# Eval("id_blog") %>' OnClick="btnEliminar_Click" runat="server" Text="Eliminar" />
                                                 </td>
                                             </tr>
                                         </ItemTemplate>
@@ -89,7 +89,7 @@
                      <div class="form-group row m-b-15">
                         <label class="col-form-label col-md-3">Fecha Publicacion:</label>
                         <div class="col-md-3">
-                            <input id="fecha_ini" class="form-control" style="background:#ecf1fa" runat="server" type="date" required>
+                            <input id="fecha_ini" class="form-control" style="background:#ecf1fa" type="date" required>
                             <asp:HiddenField ID="hfFechaIni" runat="server" />
                         </div>
                     </div>

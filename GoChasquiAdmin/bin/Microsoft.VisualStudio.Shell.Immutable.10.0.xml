@@ -20,19 +20,19 @@
     </member>
     <member name="M:Microsoft.VisualStudio.Shell.RegistrationAttribute.Key.CreateSubkey(System.String)">
       <summary>Creates a new registration key. The new key is a subkey of the current Key.</summary>
-      <param name="name">The name of the new key. This name is relative to the current key. An empty or null string sets the default value for the key.</param>
+      <param name="name">The name of the new key. This name is relative to the current key. An empty or <see langword="null" /> string sets the default value for the key.</param>
       <returns>The newly created Key.</returns>
     </member>
     <member name="M:Microsoft.VisualStudio.Shell.RegistrationAttribute.Key.SetValue(System.String,System.Object)">
       <summary>Sets the name to the given value.</summary>
-      <param name="valueName">The name of the value to set. If <paramref name="valueName" /> is null or an empty string, SetValue sets the default value for the current Key.</param>
-      <param name="value">An object to store in the value. Use an empty string or null to set the default value for a key. If the object is a numeric type that can be converted to an integer, it is stored as a DWORD registry encoding. Otherwise it is stored as a string.</param>
+      <param name="valueName">The name of the value to set. If <paramref name="valueName" /> is null or an empty string, <see langword="SetValue" /> sets the default value for the current <see langword="Key" />.</param>
+      <param name="value">An object to store in the value. Use an empty string or <see langword="null" /> to set the default value for a key. If the object is a numeric type that can be converted to an integer, it is stored as a DWORD registry encoding. Otherwise it is stored as a string.</param>
     </member>
     <member name="M:Microsoft.VisualStudio.Shell.RegistrationAttribute.Key.System#IDisposable#Dispose">
       <summary>Disposes the object and its resources.</summary>
     </member>
     <member name="M:Microsoft.VisualStudio.Shell.RegistrationAttribute.Register(Microsoft.VisualStudio.Shell.RegistrationAttribute.RegistrationContext)">
-      <summary>Registers this VSPackage with a given context, when called by an external registration tool such as regpkg.exe. For more information, see How to: Register Managed VSPackages.</summary>
+      <summary>Registers this VSPackage with a given context, when called by an external registration tool such as regpkg.exe. For more information, see Registering VSPackages.</summary>
       <param name="context">A registration context provided by an external registration tool. The context can be used to create registry keys, log registration activity, and obtain information about the component being registered.</param>
     </member>
     <member name="M:Microsoft.VisualStudio.Shell.RegistrationAttribute.RegistrationContext.#ctor">
